@@ -2,4 +2,5 @@ Hello World!
 Hola Mundo! 
 Ciao Mondo!
 Hallo Welt! 
-
+Noah likes coding! 
+Mr. Hammer teaches code!
